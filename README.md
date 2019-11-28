@@ -1,6 +1,6 @@
 
 # prerequisite  
-https://www.vagrantup.com/downloads.html 
+https://www.vagrantup.com/downloads.html  
 https://www.virtualbox.org/wiki/Downloads  
 
 # usage  
