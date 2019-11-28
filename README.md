@@ -1,6 +1,7 @@
 
 # prerequisite  
-https://www.vagrantup.com/downloads.html  
+https://www.vagrantup.com/downloads.html 
+https://www.virtualbox.org/wiki/Downloads  
 
 # usage  
 git clone https://github.com/khinpyaephyosan/snakeDevTestLab.git  
