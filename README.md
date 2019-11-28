@@ -3,8 +3,11 @@
 https://www.vagrantup.com/downloads.html  
 
 # usage  
+git clone https://github.com/khinpyaephyosan/snakeDevTestLab.git  
+cd snakeDevTestLab  
+vagrant up  
+vagrant ssh mydevenv 
 
-C:\Users\Admin> vagrant ssh mydevenv  
 <i>usrname:password  
 ansible:ansible  
 vagrant:vagrant</i>
