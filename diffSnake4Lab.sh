@@ -34,7 +34,7 @@ fi
 
 if command -v python2; then
     sudo pip2.7 install virtualenv 
-    virtualenv --python=/usr/bin/python2.7 /opt/py2env
+    virtualenv --python=/usr/bin/python2.7 /opt/pyv2env
 fi
 
 
